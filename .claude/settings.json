@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "norea-labs": {
+      "source": { "source": "github", "repo": "norea-labs/claude-plugins" }
+    }
+  },
+  "enabledPlugins": { "norea@norea-labs": true }
+}

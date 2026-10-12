@@ -1,0 +1,8 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Segreti: stanno in 1Password, mai nel repo
+.env
+.env.*
+!.env.example

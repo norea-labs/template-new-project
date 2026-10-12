@@ -1,0 +1,8 @@
+name: Norea
+
+on:
+  pull_request:
+
+jobs:
+  controlli:
+    uses: norea-labs/ci/.github/workflows/controlli.yml@main
