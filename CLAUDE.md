@@ -19,4 +19,5 @@ Da compilare quando il progetto parte. Solo rimandi brevi: i dettagli vanno nei 
 - Stack:
 - Avvio in locale:
 - Test:
-- Issue Linear e documenti del progetto:
+- Progetto Linear:
+- Knowledge del progetto: `docs/`. Claude la aggiorna insieme al codice, a ogni modifica.

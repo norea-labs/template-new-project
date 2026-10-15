@@ -5,6 +5,7 @@ Il repo modello di Norea Labs: ogni nuovo progetto parte da qui e nasce già a n
 ## Cosa contiene
 
 - `CLAUDE.md` in due parti: la parte fissa uguale in ogni repo, da non toccare, e la sezione "Questo progetto" da compilare.
+- `docs/`: la knowledge del progetto, aggiornata insieme al codice. Se un progetto la tiene altrove, il path si scrive nel `CLAUDE.md`.
 - `.claude/settings.json`: attiva il plugin `norea` con le regole per l'AI.
 - `.github/workflows/norea.yml`: su ogni PR lancia i controlli centrali di `norea-labs/ci`.
 - `.github/pull_request_template.md`: il modello di descrizione delle PR.
