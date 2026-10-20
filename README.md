@@ -14,9 +14,10 @@ Il repo modello di Norea Labs: ogni nuovo progetto parte da qui e nasce già a n
 ## Creare un nuovo progetto
 
 1. Su GitHub: "Use this template", "Create a new repository", proprietario `norea-labs`.
-2. Nel nuovo repo: scrivi nome e descrizione in cima al `CLAUDE.md` e compila "Questo progetto".
-3. Sostituisci questo README con quello del progetto.
-4. Apri la prima PR: i controlli devono passare.
+2. Se è il progetto di un cliente, nella pagina del repo aggiungi il topic `cliente` (About, Topics): così il repo può tenere le skill di Claude che servono solo a quel progetto. Le altre skill stanno nel plugin `norea`.
+3. Nel nuovo repo: scrivi nome e descrizione in cima al `CLAUDE.md` e compila "Questo progetto".
+4. Sostituisci questo README con quello del progetto.
+5. Apri la prima PR: i controlli devono passare.
 
 ## Modificare il modello
 
